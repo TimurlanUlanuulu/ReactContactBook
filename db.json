@@ -1,0 +1,25 @@
+{
+  "contacts": [
+    {
+      "name": "Ivan122",
+      "surname": "Ivanov",
+      "phone": "0777888999",
+      "url": "https://yt3.ggpht.com/vTpkRVlQhY8ZxRHPaOgZYLJz48IcUPm5utbLrijUKyLujkNBoP_nEjMZ5VndT8cBYNM4E3Pu=s900-c-k-c0x00ffffff-no-rj",
+      "id": 1
+    },
+    {
+      "name": "Marshal",
+      "surname": "Mathers",
+      "phone": "0555666777",
+      "url": "https://img5tv.cdnvideo.ru/shared/files/202209/1_1589674.jpg",
+      "id": 2
+    },
+    {
+      "name": "Mac",
+      "surname": "Miller",
+      "phone": "0555999888",
+      "url": "https://www.rollingstone.com/wp-content/uploads/2018/11/mac-miller-left-behind.jpg",
+      "id": 3
+    }
+  ]
+}
